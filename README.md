@@ -16,13 +16,7 @@
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Code-Java-orange)
-![Python](https://img.shields.io/badge/Code-Python-yellow)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
-![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-
+![My Skills](https://skillicons.dev/icons?i=html,css,python,java,git,github,vscode)
 
 ### 🧰 Tools & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green)

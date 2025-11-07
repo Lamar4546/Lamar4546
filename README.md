@@ -16,15 +16,10 @@
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,python,java,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,java,javascript,php)
 
 ### 🧰 Tools & Frameworks
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Git](https://img.shields.io/badge/VersionControl-Git-black)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blueviolet)
-
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,linux,windows,MySQL,springboot)](https://skillicons.dev)
 
 ---
 

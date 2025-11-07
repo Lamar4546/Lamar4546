@@ -4,7 +4,7 @@
 </div>
 
 ---
-<div align="center">
+
 # 👋 Hey there, I'm Lamar!
 
 🎓 I'm a **Software Engineering student** at **The University of the West Indies (UWI)**.  
@@ -27,7 +27,7 @@
 - 💬 [Socialise App](https://github.com/Lamar4546/Socialise-App) — Java GUI app simulating a social media platform.  
 
 ---
-</div>
+
 ## 📊 GitHub Stats
 <div align="center">
 

@@ -16,7 +16,7 @@
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,python,java,javascript,php)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,java,javascript,php,swift)
 
 ### 🧰 Tools & Frameworks
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,linux,windows,MySQL,springboot)](https://skillicons.dev)

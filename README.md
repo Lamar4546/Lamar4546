@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,python,java,javascript,php,swift,dart)
 
 ### 🧰 Tools & Frameworks
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,linux,windows,MySQL,springboot,flutter,AndroidStudio)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,linux,windows,MySQL,springboot,flutter)](https://skillicons.dev)
 
 ---
 

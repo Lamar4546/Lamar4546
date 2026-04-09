@@ -34,12 +34,11 @@ Currently working on
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-![Lamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamar4546&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar4546&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamar4546&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar4546&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 

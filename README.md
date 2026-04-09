@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,python,java,javascript,php,swift,dart)
 
 ### 🧰 Tools & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,spring,flask,python,java,cs,docker,aws,azure,postgres,mongodb,firebase,linux,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,spring,flask,fastapi,java,cs,docker,aws,azure,supabase,postgres,mongodb,wsl,git,github,figma,vscode)](https://skillicons.dev)
 
 ---
 

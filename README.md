@@ -24,7 +24,12 @@
 ---
 
 ## 🚀 Featured Projects
-- 💬 [Socialise App](https://github.com/Lamar4546/Socialise-App) — Java GUI app simulating a social media platform.  
+- 💬 [Socialise App](https://github.com/Lamar4546/Socialise-App) — Java GUI app simulating a social media platform.
+- 🤘[SignSee](https://github.com/nvtorious/SignSee-backend) — Sign Language learning App powered by Machine Learning- focused on acessibility and education
+
+Currently working on 
+- StudyDeck (Private Repo) - Ai powered study card app
+- Social music Web application
 
 ---
 
